@@ -1,0 +1,7 @@
+:root{
+  --header-theme: #e3a04f;
+}
+
+.bg-header-theme{
+  background-color: var(--header-theme);
+}
