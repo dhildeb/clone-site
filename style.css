@@ -5,3 +5,7 @@
 .bg-header-theme{
   background-color: var(--header-theme);
 }
+
+.fix-img{
+  object-fit: cover;
+}
